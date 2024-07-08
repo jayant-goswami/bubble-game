@@ -1,6 +1,7 @@
-var timer = 60;
-var rn = 0;
-var score = 0;
+let timer = 60;
+let rn = 0;
+let score = 0;
+
 
 function increaseScore(){
     score += 10;
